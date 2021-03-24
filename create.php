@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Form Pendaftaran Anggota</title>
+    <title>Form Input Produk</title>
     <!-- Load file CSS Bootstrap offline -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 
